@@ -1,0 +1,50 @@
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\Mirage.exe.config
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\Mirage.exe
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\Mirage.pdb
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MahApps.Metro.dll
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MaterialDesignColors.dll
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\System.Windows.Interactivity.dll
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MahApps.Metro.pdb
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MahApps.Metro.xml
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.csprojResolveAssemblyReference.cache
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\MainWindow.g.cs
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\App.g.cs
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage_MarkupCompile.cache
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage_MarkupCompile.lref
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\MainWindow.baml
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.g.resources
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.Properties.Resources.resources
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.csproj.GenerateResource.Cache
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.exe
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\Mirage.pdb
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\obj\Debug\App.baml
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\System.Data.SQLite.dll
+c:\users\monk\documents\visual studio 2015\Projects\Mirage\Mirage\bin\Debug\System.Data.SQLite.xml
+D:\Mirage\Mirage\bin\Debug\Mirage.exe.config
+D:\Mirage\Mirage\obj\Debug\Mirage.exe
+D:\Mirage\Mirage\obj\Debug\Mirage.pdb
+D:\Mirage\Mirage\bin\Debug\Mirage.exe
+D:\Mirage\Mirage\bin\Debug\Mirage.pdb
+D:\Mirage\Mirage\bin\Debug\MahApps.Metro.dll
+D:\Mirage\Mirage\bin\Debug\MaterialDesignColors.dll
+D:\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Mirage\Mirage\bin\Debug\System.Data.SQLite.dll
+D:\Mirage\Mirage\bin\Debug\System.Windows.Interactivity.dll
+D:\Mirage\Mirage\bin\Debug\MahApps.Metro.pdb
+D:\Mirage\Mirage\bin\Debug\MahApps.Metro.xml
+D:\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Mirage\Mirage\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Mirage\Mirage\bin\Debug\System.Data.SQLite.xml
+D:\Mirage\Mirage\obj\Debug\Mirage.csprojResolveAssemblyReference.cache
+D:\Mirage\Mirage\obj\Debug\MainWindow.g.cs
+D:\Mirage\Mirage\obj\Debug\App.g.cs
+D:\Mirage\Mirage\obj\Debug\Mirage_MarkupCompile.cache
+D:\Mirage\Mirage\obj\Debug\Mirage_MarkupCompile.lref
+D:\Mirage\Mirage\obj\Debug\App.baml
+D:\Mirage\Mirage\obj\Debug\MainWindow.baml
+D:\Mirage\Mirage\obj\Debug\Mirage.g.resources
+D:\Mirage\Mirage\obj\Debug\Mirage.Properties.Resources.resources
+D:\Mirage\Mirage\obj\Debug\Mirage.csproj.GenerateResource.Cache
